@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=otsukasatoshi&count_private=true&show_icons=true)](https://github.com/napia-san)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Napia&count_private=true&show_icons=true)](https://github.com/napia-san)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otsukasatoshi&layout=compact)](https://github.com/napia-san)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Napia&layout=compact)](https://github.com/napia-san)
 <!--
 **napia-san/napia-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
